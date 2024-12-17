@@ -45,7 +45,7 @@ To run this project locally, you need to have:
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/Ratre-ishwari/wedding-management.git
+   git clone https://github.com/Tejaswi69/wedding-management.git
    \`\`\`
 
 2. Navigate to the project directory:
